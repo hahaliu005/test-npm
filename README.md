@@ -1,1 +1,1 @@
-An npm test
+Just a npm package test
